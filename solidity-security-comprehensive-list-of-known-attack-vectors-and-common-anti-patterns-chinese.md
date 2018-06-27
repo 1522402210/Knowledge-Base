@@ -78,7 +78,7 @@
 * [虚拟化存储指针](#虚拟化存储指针)
 	* [漏洞](#漏洞-13)
 	* [预防技术](#预防技术-13)
-	* [真实世界的例子：蜂蜜罐：OpenAddressLottery和CryptoRoulette](#真实世界的例子蜜罐openaddresslottery和cryptoroulette)
+	* [真实世界的例子：蜜罐：OpenAddressLottery和CryptoRoulette](#真实世界的例子蜜罐openaddresslottery和cryptoroulette)
 
 * [浮点和数值精度](#浮点和数值精度)
 	* [漏洞](#漏洞-14)
